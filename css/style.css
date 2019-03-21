@@ -12,7 +12,7 @@ a {
 #grid-container{
     display:grid;
     grid-template-columns: 5% 5% auto 5% 5%;
-    width:100%;
+    width:100vw;
     height:100%;
     justify-items: center;
 }
