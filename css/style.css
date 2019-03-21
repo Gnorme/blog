@@ -37,6 +37,7 @@ a {
     justify-items: center;
 }
 #eye-catcher {
+    font-family:'Quicksand';
     grid-column: 3 / 4;
     grid-row: 2 / 3;
 }
