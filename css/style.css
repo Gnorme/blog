@@ -47,6 +47,7 @@ a {
 }
 #title {
     color:#5378fe;
+    font-family:'Open Sans';
 }
 .p-container {
     grid-column:1 / 6;
@@ -73,7 +74,7 @@ hr {
 	display: block;
     position: relative;
     cursor:pointer;
-    padding-right:10px;
+    padding-right:20px;
 }
 #navbar-links {
 	flex-direction: row;
