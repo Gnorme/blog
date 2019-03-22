@@ -37,7 +37,8 @@ a {
     justify-items: center;
 }
 #eye-catcher {
-    font-family:'Quicksand';
+    font-family:Segoe,'Segoe UI', 'Quicksand','Open Sans';
+    font-weight:300;
     grid-column: 3 / 4;
     grid-row: 2 / 3;
 }
